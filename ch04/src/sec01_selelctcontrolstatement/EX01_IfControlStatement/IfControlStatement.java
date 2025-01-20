@@ -74,7 +74,7 @@ public class IfControlStatement {
         }
         else {
             System.out.println("F학점"); 
-        }
+        }	
 
 	}
 
