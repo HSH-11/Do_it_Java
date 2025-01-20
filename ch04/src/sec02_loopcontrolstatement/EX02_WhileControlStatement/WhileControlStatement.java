@@ -46,6 +46,7 @@ public class WhileControlStatement {
             System.out.print(c+ " ");	
             c++;
         } //0~ 10 : 11번 수행
+        
 
 	}
 
