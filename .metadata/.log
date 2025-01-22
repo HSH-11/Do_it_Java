@@ -376,3 +376,8 @@ Java Model Exception: Error in Java Model (code 969): sec01_createobjectandusage
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:124)
 !SUBENTRY 1 org.eclipse.jdt.core 4 969 2025-01-22 11:46:06.570
 !MESSAGE sec01_createobjectandusageofmembers [in src [in ch06]] does not exist
+
+!ENTRY org.eclipse.core.resources 2 2 2025-01-22 11:50:16.534
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2025-01-22 11:50:16.534
+!MESSAGE The project description file (.project) for 'ch06' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
