@@ -25,4 +25,5 @@ Do_it_Java/
 ├── chap04_controlstatement/                # 제어문
 ├── chap05_referencedatatype/               # 참조 자료형
 ├── chap06_createobjectandusageofmembers/   # 클래스와객체
+├── chap07_internalcomponents/              # 클래스 내부 구성 요소
 └── README.md
