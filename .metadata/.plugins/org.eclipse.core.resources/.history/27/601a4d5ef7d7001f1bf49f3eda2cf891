@@ -1,0 +1,10 @@
+package sec01_array.EX09_ReadArrayData_2D;
+
+public class ReadArrayData_2D {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

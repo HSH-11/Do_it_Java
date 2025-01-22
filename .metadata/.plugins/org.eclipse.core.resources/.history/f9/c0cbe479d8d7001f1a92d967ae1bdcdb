@@ -1,0 +1,10 @@
+package sec01_array.EX03_InitialValue;
+
+public class InitialValue {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package sec01_array.EX01_ArrayDefinition;
+
+public class ArrayDefinition {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
