@@ -24,5 +24,5 @@ Do_it_Java/
 ├── chap03_operators/                       # 연산자
 ├── chap04_controlstatement/                # 제어문
 ├── chap05_referencedatatype/               # 참조 자료형
-├── chap06_createobjectandusageofmembers/               # 클래스와객체
+├── chap06_createobjectandusageofmembers/   # 클래스와객체
 └── README.md
