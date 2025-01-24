@@ -25,5 +25,10 @@ Do_it_Java/
 ├── chap04_controlstatement/                # 제어문
 ├── chap05_referencedatatype/               # 참조 자료형
 ├── chap06_createobjectandusageofmembers/   # 클래스와객체
-├── chap07_internalcomponents/              # 클래스 내부 구성 요소
+├── chap07_internalcomponents/              # 클래스 내부 구성 요소 
+├── chap08_externalcomponents/              # 클래스 외부 구성 요소
+├── chap09_modifier_1/                      # 자바 제어자1
+├── chap10_inheritancepolymorphism/         # 클래스의 상속과 다형성
+├── chap11_modifier_2/                      # 자바 제어자2
+├── chap12_abstractclassinterface/          # 추상클래스와인터페이스
 └── README.md
