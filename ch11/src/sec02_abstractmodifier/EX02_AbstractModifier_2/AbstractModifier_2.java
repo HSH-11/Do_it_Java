@@ -1,7 +1,7 @@
 package sec02_abstractmodifier.EX02_AbstractModifier_2;
 
 /*추상클래스를 상속하여 오버라이딩 수행*/
-
+//반드시 자식 클래스에서 오버라이딩 수행
 abstract class Animal {
 	abstract void cry();
 }
